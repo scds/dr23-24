@@ -31,7 +31,7 @@ credits: ''
 # nav_footer_logo_top_href: "https://rdm.mcmaster.ca/"
 
 # OTHER settings - Override series specific settings
-subtitle: "This workshop is part of the Digital Research (DR) series."
+subtitle: "These workshops are part of the Digital Research (DR) series."
 nav_footer_logo_bottom: "https://raw.githubusercontent.com/scds/jtd-mcmaster/main/assets/images/scds-logo.png"
 nav_footer_logo_bottom_href: "https://scds.ca/"
 nav_footer_logo_top: ""

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Building JavaScript Websites 2: Designing for Mobile UI"
-nav_order: 2023.10251230
+nav_order: 2023.10261330
 ---
 
 <img src="assets/img/website2.png" alt="Workshop Title Slide" width="100%">
