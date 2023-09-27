@@ -14,8 +14,6 @@ Starting from a simple prepared single-page application, we will walk you throug
 
 **The materials for this workshop are available here:** <https://mcmasterrs.github.io/ws_web-design-guide/>
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3738758){: .btn .btn-outline }
-
 ## Workshop Preparation
 
 This workshop is for beginner web developers with some JavaScript experience and their own web development environment. Participants will need to set up React.js and frameworks in their own development environment. Follow the [workshop setup guide](https://mcmasterrs.github.io/ws_web-design-guide/pre-workshop.html), or come to the [optional preparation session from 12:30-1:30pm](https://libcal.mcmaster.ca/event/3740448) to troubleshoot any issues. We make it easy! All sessions in this series use the same setup.
