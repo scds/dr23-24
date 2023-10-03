@@ -27,7 +27,7 @@ These workshops welcome students, staff, and faculty from any discipline, as wel
 <ul>
 {% for workshop in workshops %}
   {% if workshop.title != null and workshop.title != "Home" %}
-<li><a href="{{workshop.url}}">{{workshop.title}}</a></li>
+<li><a href="{{workshop.url | absolute_url}}">{{workshop.title}}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
