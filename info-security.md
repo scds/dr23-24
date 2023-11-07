@@ -16,7 +16,7 @@ Greg Atkinson is Senior Manager of Information Technology at McMaster University
 
 Miroslav Cika is Research and IT Security Analyst, part of Information Security Services in UTS, McMaster University. Electrical Technologist with background in DIY electronics, computer science, history, economics, and log cabin building.
 
-## Event Recording
+## Workshop Recording
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/dd59fff0-78e8-4082-8f5e-e9aded4c5a11/public"></iframe>
 [View original here.](https://echo360.ca/media/dd59fff0-78e8-4082-8f5e-e9aded4c5a11/public)
