@@ -12,7 +12,7 @@ Are you building your own web site using JavaScript and frameworks? In this firs
 
 Starting from a simple prepared single-page application, we will walk you through how to apply consistent theme styling, using McMaster Branding guidelines as an example. Each workshop in this series can be taken independently of the other workshops in the series.
 
-**The recording and materials for this workshop are available here:** <https://mcmasterrs.github.io/ws_web-design-guide/styling.html/>
+**The recording and materials for this workshop are available here:** <https://mcmasterrs.github.io/ws_web-design-guide/styling.html>
 
 ## Workshop Preparation
 

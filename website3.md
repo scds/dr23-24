@@ -12,7 +12,7 @@ December 3 is International Day for Persons with Disabilities! Are you building 
 
 Starting from a simple prepared single-page application, we will walk you through how easy it is to make a JavaScript web site to be AODA compliant. Each workshop in this series can be taken independently of the other workshops in the series.
 
-**The materials for this workshop are available here:** <https://mcmasterrs.github.io/ws_web-design-guide/>
+**The materials for this workshop are available here:** <https://mcmasterrs.github.io/ws_web-design-guide/aoda.html/>
 
 [Register for this workshop](https://libcal.mcmaster.ca/event/3738760){: .btn .btn-outline }
 
