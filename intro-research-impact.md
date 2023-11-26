@@ -20,3 +20,16 @@ Jack Young (he/him) is Health Sciences Librarian at McMaster University. His pri
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/8d23333d-84e9-42ba-8d5a-3696a66e1279/public"></iframe>
 [View original here.](https://echo360.ca/media/8d23333d-84e9-42ba-8d5a-3696a66e1279/public)
+
+## Links and Resources
+
+To learn more about research impact at McMaster, visit <https://library.mcmaster.ca/services/research-impact>.  
+
+If you have any questions about research impact, or the use of bibliometrics, feel free to send us an email at [impact@mcmaster.ca](mailto:impact@mcmaster.ca).
+
+- [Dimensions](https://library.mcmaster.ca/databases/dimensions-analytics-digital-science) (requires a McMaster login)
+- [Altmetric](https://library.mcmaster.ca/databases/altmetric-explorer) (requires a McMaster login)
+- [Web of Science](https://library.mcmaster.ca/databases/isi-web-knowledge) (requires a McMaster login)
+- [VoS Viewer](https://www.vosviewer.com/)
+- [Research Rabbit](https://researchrabbitapp.com/)
+- [LitMaps](https://www.litmaps.com/)
