@@ -34,8 +34,8 @@ credits: 'Content created by the <a href="https://research.mcmaster.ca/home/supp
 subtitle: "These workshops are part of the Digital Research (DR) series."
 nav_footer_logo_bottom: "https://raw.githubusercontent.com/scds/jtd-mcmaster/main/assets/images/scds-logo.png"
 nav_footer_logo_bottom_href: "https://scds.ca/"
-nav_footer_logo_top: ""
-nav_footer_logo_top_href: ""
+nav_footer_logo_top: https://raw.githubusercontent.com/scds/jtd-mcmaster/main/assets/images/drcp-logo.png""
+nav_footer_logo_top_href: "http://askresearch.mcmaster.ca/"
 
 #  _____       _   _   _          _      _                            
 # | ____|   __| | (_) | |_       / \    | |__     ___   __   __   ___ 
