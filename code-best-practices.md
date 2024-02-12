@@ -10,7 +10,7 @@ nav_order: 2024.02081330
 
 Preservation of software with your research data is an important part of open research and will be a future requirement by the Tri-agencies for Data Deposit. In this introductory session, learn how you can apply research data management practices and FAIR data principles to software, and some best practices that will help you prepare for depositing the custom code and analysis scripts you use to generate and process your research data, and how these practices can help you now in developing and maintaining this work.
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3738761){: .btn .btn-outline }
+<!-- [Register for this workshop](https://libcal.mcmaster.ca/event/3738761){: .btn .btn-outline } -->
 
 ## Workshop Preparation
 
