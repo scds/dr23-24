@@ -21,3 +21,8 @@ This workshop is suited for researchers and research teams, including graduate s
 This workshop is co-hosted by two groups: the Research Software Development Team and Research Data Management Services. The [Research Software Development (RSD) team](https://research.mcmaster.ca/home/support-for-researchers/research-resources/research-software-development/), a component team of the Digital Resarch Commons Pilot (DRCP). This group supports software development by researchers and research groups by developing public resources, hosting training sessions, and providing consultations.
 
 [Research Data Management](https://library.mcmaster.ca/services/rdm) is a team of RDM Specialists Danica Evering and Isaac Pratt. RDM Services support the active organization and maintenance of data throughout its lifecycle--from collection to interpretation, dissemination, long-term preservation, and reuse. The application of RDM best practices improves research efficiency, enables verification of research results, and fosters innovative and interdisciplinary research through data reuse.
+
+## Workshop Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/7a90f207-ac1b-41a0-825d-a5bbe9694e27/public"></iframe>
+[View original here.](https://echo360.ca/media/7a90f207-ac1b-41a0-825d-a5bbe9694e27/public)
