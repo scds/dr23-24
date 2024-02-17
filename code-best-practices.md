@@ -26,3 +26,9 @@ This workshop is co-hosted by two groups: the Research Software Development Team
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/7a90f207-ac1b-41a0-825d-a5bbe9694e27/public"></iframe>
 [View original here.](https://echo360.ca/media/7a90f207-ac1b-41a0-825d-a5bbe9694e27/public)
+
+## Workshop Slides
+
+<embed src="assets/docs/reproducible_research_slides.pdf" style="border:none;" width="100%" height="466px">
+
+[Download as PDF.](assets/docs/reproducible_research_slides.pdf)
